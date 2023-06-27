@@ -3,7 +3,7 @@
 
 - 🌱 Hoje eu estudo desenvolvimento web!
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Christofani=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>
     <a href="https://github.com/Christofani"></a>
