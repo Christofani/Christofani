@@ -3,4 +3,4 @@
 
 - 🌱 Hoje eu estudo desenvolvimento web!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani&show_icons=true&theme=drácula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani&show_icons=true&theme=dark)
