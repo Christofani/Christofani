@@ -4,7 +4,7 @@
 - 🌱 Hoje eu estudo desenvolvimento web!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) 
 
 <div>
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
