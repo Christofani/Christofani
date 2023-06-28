@@ -5,7 +5,7 @@
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani&show_icons=true&theme=dark)
 </div>
-<div width="50%">
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false) 
 </div>
 <div>
