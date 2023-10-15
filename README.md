@@ -1,18 +1,22 @@
 ## Olá! Eu sou o Rodrigo Christofani
 
 
-### - 🌱 Hoje eu estudo desenvolvimento web!
+### - 💻  Desenvolvedor Web Front-end!
+### - 🤓  Estudando Back-end!
+### - ☁️   Estudando Cloud (AWS)!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofani&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christofani&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
+    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img  width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
           
           
   </div>
