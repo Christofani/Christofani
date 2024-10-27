@@ -2,16 +2,9 @@
 
 ###
 
-<p align="left">- Java Developer<br>-  Software Engineering Student - Bachelor's Degree<br>- Studying Cybersecurity Google</p>
+<p align="left">- Java Developer<br>-  Software Engineering Student - Bachelor's Degree<br>- Studying Cybersecurity google</p>
 
 ###
-
-##
-  <div>
-    <a href="https://www.linkedin.com/in/devchristofani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""></a>
-    <a href="mailto:christofanir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-    <a href="https://wa.me/qr/R3VMFLWR5OSPB1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
-  </div>
 
 <h2 align="left">Techs</h2>
 
@@ -78,6 +71,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christofani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christofani&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/devchristofani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/qr/R3VMFLWR5OSPB1">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:christofanir@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/devchristofani" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+</div>
+
+
+###
 
 
   
