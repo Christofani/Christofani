@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>-  Software Engineering Student - Bachelor's Degree<br>- Studying Cybersecurity google</p>
+<p align="left">- Java Developer<br>-  Software Engineering Student - Bachelor's Degree<br>- Studying Cybersecurity Google</p>
 
 ###
 
