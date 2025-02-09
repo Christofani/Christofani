@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Hi there, I'm Rodrigo!🤓</h2>
 
 ###
 
